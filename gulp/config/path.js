@@ -33,7 +33,6 @@ const path = {
     buildFolder: buildFolder,
     srcFolder: srcFolder,
     rootFolder: rootFolder,
-    ftp: `test`
 }
 
 export default path;
